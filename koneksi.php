@@ -1,7 +1,7 @@
 <?php
-    $hostname  = "localhost";
-    $username  = "dbcngo";
-    $password  = "cngo123";
-    $dbname  = "dbcngo";
+    $hostname  = "";
+    $username  = "";
+    $password  = "";
+    $dbname  = "";
     $koneksi = mysqli_connect($hostname,$username,$password,$dbname);
  ?>
